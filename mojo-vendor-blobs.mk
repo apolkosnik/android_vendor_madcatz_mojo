@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/madcatz/mojo/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
     vendor/madcatz/mojo/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/madcatz/mojo/proprietary/lib/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
-    vendor/madcatz/mojo/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/madcatz/mojo/proprietary/lib/nvcms/device.cfg:system/lib/nvcms/device.cfg \
     vendor/madcatz/mojo/proprietary/lib/libDxDrmServer.so:system/lib/libDxDrmServer.so \
     vendor/madcatz/mojo/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
