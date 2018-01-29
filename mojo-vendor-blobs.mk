@@ -40,8 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/madcatz/mojo/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
     vendor/madcatz/mojo/proprietary/lib/egl/libGLESv1_CM_tegra_impl.so:system/lib/egl/libGLESv1_CM_tegra_impl.so \
     vendor/madcatz/mojo/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
-    vendor/madcatz/mojo/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
-    vendor/madcatz/mojo/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
     vendor/madcatz/mojo/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/madcatz/mojo/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/madcatz/mojo/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
@@ -53,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/madcatz/mojo/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
     vendor/madcatz/mojo/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/madcatz/mojo/proprietary/lib/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
-    vendor/madcatz/mojo/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/madcatz/mojo/proprietary/lib/nvcms/device.cfg:system/lib/nvcms/device.cfg \
     vendor/madcatz/mojo/proprietary/lib/libDxDrmServer.so:system/lib/libDxDrmServer.so \
     vendor/madcatz/mojo/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
